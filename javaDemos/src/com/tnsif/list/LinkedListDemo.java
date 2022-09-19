@@ -1,4 +1,4 @@
-package com.list;
+package com.tnsif.list;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.ListIterator;

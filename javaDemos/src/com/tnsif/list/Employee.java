@@ -1,4 +1,4 @@
-package com.list;
+package com.tnsif.list;
 public class Employee {
 	
 int id;

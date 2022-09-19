@@ -1,14 +1,14 @@
-package com.list;
+package com.tnsif.list;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-
+@SuppressWarnings(value = { "unchecked" })
 public class ArrayListDemo {
 	//int price;
-
+	
 	public static void main(String[] args) {
-		List<Object> al=new ArrayList<Object>();
+		List al=new ArrayList();
 		Student s2=new Student(102,"Rashmi","ECE");
 		al.add(new Integer(10));
 		al.add(new Float(22.22f));
@@ -32,4 +32,3 @@ public class ArrayListDemo {
 	}
 
 }
-

@@ -1,4 +1,4 @@
-package com.list;
+package com.tnsif.list;
 
 import java.util.ListIterator;
 import java.util.Stack;
